@@ -7,7 +7,8 @@ manipulator tries to keep the ball in the center of the view are.
 
 Video Link: https://www.youtube.com/watch?v=wxhTROs7QdA&t=2s
  
-![Alt text](/Ball-Tracking-Servo/Screenshot from 2017-10-25 11-25-40.png?raw=true "Optional Title")
+![screenshot from 2017-10-25 11-25-40](https://user-images.githubusercontent.com/15217992/31982870-5495ad34-b978-11e7-9525-70089ff3283f.png)
+
 Proportional Controller:- Joint_velocity= K*(error) 
 where, error= (Target_position-Actual_position) of the ball as seen by the camera.
 
