@@ -6,6 +6,7 @@ location of the sphere is plotted on the bottom right graph in the video. The im
 manipulator tries to keep the ball in the center of the view are. 
 
 Video Link: https://www.youtube.com/watch?v=wxhTROs7QdA&t=2s
+![Alt text](/home/shiladitya/Pictures/Screenshot from 2017-10-25 11-25-40.png?raw=true "Optional Title")
 
 Proportional Controller:- Joint_velocity= K*(error) 
 where, error= (Target_position-Actual_position) of the ball as seen by the camera.
