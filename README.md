@@ -9,8 +9,8 @@ Video Link: https://www.youtube.com/watch?v=wxhTROs7QdA&t=2s
  
 ![screenshot from 2017-10-25 11-25-40](https://user-images.githubusercontent.com/15217992/31982870-5495ad34-b978-11e7-9525-70089ff3283f.png)
 
-Proportional Controller:- Joint_velocity= K*(error) 
+Proportional Controller:- Joint_velocity= K*(error)\
 where, error= (Target_position-Actual_position) of the ball as seen by the camera.
 
-V-rep Version- 3.4.0 
+V-rep Version- 3.4.0 \
 programming Language- Lua.
